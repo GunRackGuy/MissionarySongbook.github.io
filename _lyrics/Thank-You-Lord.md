@@ -1,5 +1,5 @@
 ---
-title: Thank-You-Lord
+title: Thank You Lord
 ---
 
    
